@@ -2,7 +2,7 @@
 <widget id="www.study.co.zw" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>www.study.co.zw</name>
     <description>www.study.co.zw app</description>
-    <author email="info@study.co.zw" href="http://www.study.coo.zw">Learning Factory team</author>
+    <author email="info@study.co.zw" href="http://www.study.co.zw">Learning Factory team</author>
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
