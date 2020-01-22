@@ -39,6 +39,7 @@
     <preference name="LoadUrlTimeoutValue" value="60000" />
     <preference name="CustomURLSchemePluginClearsAndroidIntent" value="true" />
     <preference name="ANDROID_SUPPORT_V4_VERSION" value="27.+" />
+    <preference name="ANDROID_SUPPORT_VERSION" value="27.+" />
     <feature name="StatusBar">
         <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
